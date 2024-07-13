@@ -34,6 +34,7 @@ export default function TopNavigation() {
       </NavbarContent>
       <NavbarContent justify="end">
         <IoPersonOutline />
+        <p className="ml-2">Select Language</p>
       </NavbarContent>
     </Navbar>
   );
